@@ -1,0 +1,5 @@
+toml
+  
+name = "imgbed"
+main = "index.js"
+compatibility_date = "2025-05-15"
